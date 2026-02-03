@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Gauss-jordan_Elimination_ver.class/Gauss-jordan_Elimination_ver.class.vcxproj" />
+</Solution>
